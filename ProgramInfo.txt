@@ -1,0 +1,1037 @@
+Description: The main program executable - File Location: Information\Main.exe
+Description: For converting .bmp files into .slp ones (Widescreen) - File Location: Information\Bin\Bmp2Slp.exe
+Description: To change the console font color (unnecessary for this version of the program) - File Location: Information\Bin\Display.exe
+Description: For reading and writing .drs files of the game - File Location: Information\Bin\DrsBuild.exe
+Description: To fix launching bug of game recording - File Location: Information\Bin\MgxFix.exe
+Description: To patch the game executable (Widescreen) - File Location: Information\Bin\Patcher.exe
+Description: To fix fog of war bug of game recording - File Location: Information\Bin\RevealFix.exe
+Description: To read and write language file of the game - File Location: Information\Bin\RH.exe
+Description: Empires2.exe (The Age Of Kings) patch setting for 2.0 version (Widescreen) - File Location: Information\Bin\AOK\AoK_2.0.patch
+Description: Empires2.exe (The Age Of Kings) patch setting for 2.0a or 2.0b version (Widescreen) - File Location: Information\Bin\AOK\AoK_2.0ab.patch
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int50101.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51121.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51122.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51123.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51124.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51125.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51126.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51127.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51128.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51129.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51130.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51131.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51132.bmp
+Description: Civlization interface converted into .bmp file (The Age Of Kings & The Conquerors) (Widescreen) - File Location: Information\Bin\AOK\Bmp\int51133.bmp
+Description: Overlay for the civilization interfaces (The Age Of Kings) - File Location: Information\Bin\AOK\Bmp\Overlay.bmp
+Description: The program arrow cursor - File Location: Information\Bin\Cur\Cursor.cur
+Description: The program hand cursor - File Location: Information\Bin\Cur\Hand.cur
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\1.0c__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\1.0e__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\1.0__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\1.5__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\2.0a__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\2.0b__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\2.0c__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\2.0__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\AOC.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\AOK.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Bagf.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Bagf_Clicked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Bagf_Hover.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\br_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\B_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\CB_Checked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\CB_Checked_Hover.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\CB_UnChecked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\CB_UnChecked_Hover.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Checked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Checked_Clicked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Checked_Hover.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\de_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Disabled_Checked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\ERROR.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\es_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\fr_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\INFO.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Installed.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\IU.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\IU_Clicked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\IU_Hover.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\I_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Lng.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Lng_Clicked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Lng_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Lng_Hover.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Main.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\NA.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\SoundOff.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\SoundOn.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\UnChecked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\UnChecked_Clicked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\UnChecked_Hover.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\Uninstalled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\us_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\U_Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\_.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\__Clicked.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\__Disabled.png
+Description: Picture used for the program theme - File Location: Information\Bin\PNG\__Hover.png
+Description: Age2_x1.exe (The Conquerors) patch setting for 1.0 version (Widescreen) - File Location: Information\Bin\TC\AoC_1.0.patch
+Description: Age2_x1.exe (The Conquerors) patch setting for 1.0c or 1.0e version (Widescreen) - File Location: Information\Bin\TC\AoC_1.0c_1.0e.patch
+Description: Civlization interface converted into .bmp file (The Conquerors) (Widescreen) - File Location: Information\Bin\TC\Bmp\int51134.bmp
+Description: Civlization interface converted into .bmp file (The Conquerors) (Widescreen) - File Location: Information\Bin\TC\Bmp\int51135.bmp
+Description: Civlization interface converted into .bmp file (The Conquerors) (Widescreen) - File Location: Information\Bin\TC\Bmp\int51136.bmp
+Description: Civlization interface converted into .bmp file (The Conquerors) (Widescreen) - File Location: Information\Bin\TC\Bmp\int51137.bmp
+Description: Civlization interface converted into .bmp file (The Conquerors) (Widescreen) - File Location: Information\Bin\TC\Bmp\int51138.bmp
+Description: Overlay for the civilization interfaces (The Conquerors) - File Location: Information\Bin\TC\Bmp\Overlay.bmp
+Description: The program background sound - File Location: Information\Bin\Wav\Background.mp3
+Description: The program button click sound - File Location: Information\Bin\Wav\Click.wav
+Description: Dock class for attaching the program windows together - File Location: Information\Lib\Class_Dock.ahk
+Description: Functions used by the program - File Location: Information\Lib\Lib.ahk
+Description: Language definitions configuration file - File Location: Information\Lng\Def.ini
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\language.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\language_x1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\language_x1_p1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\acordofeudal.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\armasdacavalaria.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\armasdemisseis.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\armasdepunho.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\armasmedievais.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\ascruzadas.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\astecas.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\bizantinos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\castelos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\cavaleiros.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\celtas.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\cercocastelos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\charlemagnefr.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\chineses.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\coreanos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\decliniofeudal.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\defcastelos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\economiaim.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\espanhois.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\evcastelos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\exercitosmed.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\exestrat.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\exmongois.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\exorg.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\extaticas.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\feudalismo.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\francos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\godos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\guerranaval.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\guerrasmedievais.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\hunos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\idadedastrevas.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\idademedia.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\ingleses.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\invasoresbarbaros.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\itpolitica.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\itreligiao.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\japoneses.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\maias.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\mongois.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\ofeudo.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\osvikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\persas.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\polvora.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\quedaderoma.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\religiaoim.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\renaissencia.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\sarracenos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\tardiaim.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\tecnologiaim.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\teutonicos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\tropastrevas.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\turcos.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\br\History\viking2.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\language.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\language_x1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\language_x1_p1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Armies.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\ArmiesMongols.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\ArmiesOrg.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\ArmiesStrat.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\ArmiesTactics.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Aztecs.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\barbarianinvaders.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\British original.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\british regular.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\british test.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\british.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Byzantines.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\CastleDefenses.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\CastleEvolution.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Castles.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\CastleSiege.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Celts.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\charlemagne.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Chinese.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\darkagereligion.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\darkages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\DarkArmies.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\economy.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\feudalcontract.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\feudalism.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\feudalismdecline.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Franks.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Goths.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Gunpowder.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\history.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Huns.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Japanese.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Knights.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Koreans.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\latemiddleages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Mayans.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\middleages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Mongols.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Naval.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Persians.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\politics.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\religion.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\renaissance.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Saracens.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Spanish.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\technology.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Teutons.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\thecrusades.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\thefallofrome.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\themanor.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\thevikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Turks.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Vikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Warfare.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\Weapons.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\WeaponsCav.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\WeaponsHand.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\History\WeaponsMissile.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\01 yes.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\02 no.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\03 food, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\04 wood, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\05 gold, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\06 stone, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\07 ahh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\08 all hail.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\09 oooh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\10 back to age 1.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\11 herb laugh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\12 being rushed.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\13 blame your isp.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\14 start the game.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\15 don't point that thing.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\16 enemy sighted.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\17 it is good.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\18 i need a monk.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\19 long time no siege.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\20 my granny.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\21 nice town i'll take it.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\22 quit touchin.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\23 raiding party.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\24 dadgum.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\25 smite me.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\26 the wonder.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\27 you play 2 hours.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\28 you should see the other guy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\29 roggan.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\30 wololo.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\31 attack an enemy now.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\32 cease creating extra villagers.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\33 create extra villagers.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\34 build a navy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\35 stop building a navy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\36 wait for my signal to attack.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\37 build a wonder.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\38 give me your extra resources.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\39 ally.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\40 enemy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\41 neutral.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\de\Taunt\42 what age are you in.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\language.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Language_x1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\language_x1_p1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Armies.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\ArmiesMongols.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\ArmiesOrg.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\ArmiesStrat.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\ArmiesTactics.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Aztecs.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\barbarianinvaders.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\british.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Byzantines.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\CastleDefenses.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\CastleEvolution.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Castles.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\CastleSiege.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Celts.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\charlemagne.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Chinese.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\darkagereligion.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\darkages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\DarkArmies.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\economy.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\feudalcontract.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\feudalism.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\feudalismdecline.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Franks.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Goths.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Gunpowder.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Huns.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Japanese.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Knights.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Koreans.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\latemiddleages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Mayans.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\middleages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Mongols.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Naval.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Persians.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\politics.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\religion.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\renaissance.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Saracens.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Spanish.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\technology.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Teutons.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\thecrusades.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\thefallofrome.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\themanor.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\thevikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Turks.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Vikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Warfare.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\Weapons.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\WeaponsCav.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\WeaponsHand.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\History\WeaponsMissile.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\01 yes.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\02 no.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\03 food, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\04 wood, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\05 gold, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\06 stone, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\07 ahh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\08 all hail.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\09 oooh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\10 back to age 1.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\11 herb laugh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\12 being rushed.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\13 blame your isp.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\14 start the game.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\15 don't point that thing.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\16 enemy sighted.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\17 it is good.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\18 i need a monk.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\19 long time no siege.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\20 my granny.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\21 nice town i'll take it.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\22 quit touchin.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\23 raiding party.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\24 dadgum.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\25 smite me.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\26 the wonder.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\27 you play 2 hours.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\28 you should see the other guy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\29 roggan.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\30 wololo.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\31 attack an enemy now.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\32 cease creating extra villagers.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\33 create extra villagers.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\34 build a navy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\35 stop building a navy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\36 wait for my signal to attack.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\37 build a wonder.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\38 give me your extra resources.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\39 ally.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\40 enemy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\41 neutral.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\es\Taunt\42 what age are you in.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\language.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\language_x1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\language_x1_p1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Armies.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\ArmiesMongols.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\ArmiesOrg.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\ArmiesStrat.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\ArmiesTactics.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Aztecs.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\barbarianinvaders.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\British original.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\british regular.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\british test.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\british.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Byzantines.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\CastleDefenses.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\CastleEvolution.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Castles.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\CastleSiege.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Celts.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\charlemagne.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Chinese.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\darkagereligion.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\darkages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\DarkArmies.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\economy.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\feudalcontract.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\feudalism.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\feudalismdecline.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Franks.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Goths.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Gunpowder.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\history.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Huns.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Japanese.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Knights.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Koreans.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\latemiddleages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Mayans.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\middleages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Mongols.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Naval.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Persians.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\politics.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\religion.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\renaissance.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Saracens.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Spanish.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\technology.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Teutons.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\thecrusades.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\thefallofrome.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\themanor.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\thevikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Turks.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Vikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Warfare.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\Weapons.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\WeaponsCav.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\WeaponsHand.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\History\WeaponsMissile.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\01 yes.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\02 no.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\03 food, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\04 wood, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\05 gold, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\06 stone, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\07 ahh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\08 all hail.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\09 oooh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\10 back to age 1.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\11 herb laugh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\12 being rushed.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\13 blame your isp.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\14 start the game.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\15 don't point that thing.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\16 enemy sighted.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\17 it is good.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\18 i need a monk.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\19 long time no siege.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\20 my granny.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\21 nice town i'll take it.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\22 quit touchin.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\23 raiding party.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\24 dadgum.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\25 smite me.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\26 the wonder.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\27 you play 2 hours.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\28 you should see the other guy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\29 roggan.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\30 wololo.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\31 attack an enemy now.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\32 cease creating extra villagers.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\33 create extra villagers.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\34 build a navy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\35 stop building a navy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\36 wait for my signal to attack.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\37 build a wonder.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\38 give me your extra resources.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\39 ally.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\40 enemy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\41 neutral.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\fr\Taunt\42 what age are you in.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\language.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\language_x1.dll
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Armies.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\ArmiesMongols.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\ArmiesOrg.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\ArmiesStrat.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\ArmiesTactics.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Aztecs.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\barbarianinvaders.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\British original.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\british regular.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\british test.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\british.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Byzantines.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\CastleDefenses.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\CastleEvolution.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Castles.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\CastleSiege.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Celts.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\charlemagne.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Chinese.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\darkagereligion.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\darkages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\DarkArmies.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\economy.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\feudalcontract.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\feudalism.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\feudalismdecline.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Franks.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Goths.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Gunpowder.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\history.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Huns.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Japanese.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Knights.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Koreans.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\latemiddleages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Mayans.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\middleages.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Mongols.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Naval.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Persians.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\politics.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\religion.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\renaissance.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Saracens.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Spanish.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\technology.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Teutons.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\thecrusades.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\thefallofrome.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\themanor.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\thevikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Turks.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Vikings.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Warfare.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\Weapons.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\WeaponsCav.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\WeaponsHand.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\History\WeaponsMissile.txt
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\01 Yes.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\02 No.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\03 Food, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\04 Wood, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\05 Gold, PLease.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\06 Stone, please.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\07 Ahh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\08 All hail.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\09 Oooh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\10 Back to Age 1.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\11 Herb laugh.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\12 Being rushed.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\13 Blame your isp.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\14 Start the game.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\15 Don't Point That Thing.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\16 Enemy Sighted.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\17 It Is Good.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\18 I Need a Monk.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\19 Long Time No Siege.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\20 My granny.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\21 Nice Town I'll Take It.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\22 Quit Touchin.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\23 Raiding Party.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\24 Dadgum.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\25 Smite Me.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\26 The wonder.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\27 You play 2 hours.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\28 You Should See the Other Guy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\29 Roggan.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\30 Wololo.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\31 Attack an Enemy Now.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\32 Cease Creating Extra Villagers.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\33 Create Extra Villagers.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\34 Build a Navy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\35 Stop Building a Navy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\36 Wait for My Signal to Attack.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\37 Build a Wonder.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\38 Give Me Your Extra Resources.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\39 Ally.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\40 Enemy.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\41 Neutral.mp3
+Description: File used to change the game interface langauge - File Location: Information\Lng\us\Taunt\42 What Age Are You In.mp3
+Description: Visual Mods configuration file for checking it installation status using the hashsum (MD5) - File Location: Information\Mods\Mods.ini
+Description: File used for visual mods installation - File Location: Information\Mods\bb\gra02560.slp
+Description: File used for visual mods installation - File Location: Information\Mods\bb\int50730.slp
+Description: File used for visual mods installation - File Location: Information\Mods\bb\IU.ini
+Description: File used for visual mods installation - File Location: Information\Mods\bb\U\gra02560.slp
+Description: File used for visual mods installation - File Location: Information\Mods\bb\U\int50730.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00009.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00068.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00193.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00206.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00222.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00327.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00339.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00344.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00358.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00588.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00614.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00641.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00670.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00683.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00710.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00775.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00789.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00802.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00856.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00874.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00981.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra00994.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01045.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01058.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01124.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01182.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01195.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01389.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01402.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01415.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01428.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01441.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01454.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01481.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01495.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01511.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01527.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01544.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01559.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01599.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01637.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01651.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra01768.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02086.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02556.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02558.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02572.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02588.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02705.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02769.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02794.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02807.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra02833.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra03005.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra03079.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra03092.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra03626.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra03631.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra03764.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra03978.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra03979.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04393.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04540.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04609.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04649.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04656.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04723.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04829.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04834.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04856.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04861.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04868.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04874.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra04919.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra05164.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra05166.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra05211.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra05287.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra05307.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\gra05311.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\IU.ini
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00009.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00068.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00193.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00206.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00222.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00327.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00339.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00344.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00358.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00588.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00614.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00641.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00670.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00683.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00710.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00775.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00789.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00802.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00856.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00874.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00981.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra00994.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01045.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01058.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01124.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01182.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01195.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01389.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01402.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01415.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01428.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01441.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01454.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01481.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01495.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01511.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01527.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01544.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01559.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01599.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01637.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01651.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra01768.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02086.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02556.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02558.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02572.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02588.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02705.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02769.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02794.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02807.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra02833.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra03005.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra03079.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra03092.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra03626.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra03631.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra03764.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra03978.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra03979.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04393.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04540.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04609.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04649.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04656.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04723.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04829.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04834.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04856.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04861.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04868.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04874.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra04919.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra05164.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra05166.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra05211.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra05287.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra05307.slp
+Description: File used for visual mods installation - File Location: Information\Mods\eb\U\gra05311.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00424.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00425.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00426.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00427.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00428.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00429.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00430.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00431.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\gra00432.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\IU.ini
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00424.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00425.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00426.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00427.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00428.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00429.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00430.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00431.slp
+Description: File used for visual mods installation - File Location: Information\Mods\hbf\U\gra00432.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\IU.ini
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15000.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15001.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15002.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15006.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15007.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15008.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15009.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15010.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15011.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15014.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15015.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15016.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15017.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15018.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15019.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15024.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15026.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15027.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15028.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15029.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15030.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\ter15031.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15000.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15001.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15002.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15006.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15007.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15008.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15009.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15010.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15011.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15014.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15015.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15016.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15017.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15018.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15019.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15024.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15026.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15027.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15028.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15029.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15030.slp
+Description: File used for visual mods installation - File Location: Information\Mods\lgt\U\ter15031.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\IU.ini
+Description: File used for visual mods installation - File Location: Information\Mods\ns\ter15024.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\ter15026.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\ter15027.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\ter15028.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\ter15029.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\ter15030.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\U\ter15024.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\U\ter15026.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\U\ter15027.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\U\ter15028.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\U\ter15029.slp
+Description: File used for visual mods installation - File Location: Information\Mods\ns\U\ter15030.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01250.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01251.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01252.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01253.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01254.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01255.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01256.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01257.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01258.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01259.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01260.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01261.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01262.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01263.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01264.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01265.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01266.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01267.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01268.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01269.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01270.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01271.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01272.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra01273.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra02296.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra02300.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra02304.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra02308.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra02533.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra02554.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04574.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04575.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04577.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04578.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04581.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04584.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04652.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04653.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04654.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04682.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04727.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04728.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04730.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04731.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04812.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\gra04913.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\IU.ini
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01250.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01251.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01252.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01253.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01254.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01255.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01256.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01257.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01258.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01259.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01260.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01261.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01262.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01263.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01264.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01265.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01266.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01267.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01268.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01269.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01270.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01271.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01272.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra01273.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra02296.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra02300.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra02304.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra02308.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra02533.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra02554.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04574.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04575.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04577.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04578.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04581.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04584.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04652.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04653.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04654.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04682.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04727.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04728.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04730.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04731.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04812.slp
+Description: File used for visual mods installation - File Location: Information\Mods\st\U\gra04913.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra02098.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra02099.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra02100.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra02101.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra02110.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra02111.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra02112.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra02113.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04169.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04170.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04171.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04172.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04173.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04174.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04175.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04176.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04177.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04178.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04179.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04180.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04181.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04182.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04183.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04184.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04185.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04186.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04187.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04188.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04189.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04190.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04191.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra04192.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra05124.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra05126.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra05145.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra05147.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra05149.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra05151.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra05153.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\gra05155.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\IU.ini
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra02098.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra02099.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra02100.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra02101.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra02110.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra02111.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra02112.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra02113.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04169.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04170.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04171.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04172.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04173.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04174.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04175.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04176.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04177.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04178.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04179.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04180.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04181.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04182.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04183.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04184.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04185.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04186.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04187.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04188.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04189.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04190.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04191.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra04192.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra05124.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra05126.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra05145.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra05147.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra05149.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra05151.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra05153.slp
+Description: File used for visual mods installation - File Location: Information\Mods\sw\U\gra05155.slp
+Description: File used to change the game version - File Location: Information\Versions\1.0\SETUPENU.DLL
+Description: File used to change the game version - File Location: Information\Versions\1.0\age2_x1\age2_x1.exe
+Description: File used to change the game version - File Location: Information\Versions\1.0\age2_x1\clcd32.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0\age2_x1\clokspl.exe
+Description: File used to change the game version - File Location: Information\Versions\1.0\age2_x1\dplayerx.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0\age2_x1\drvmgt.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0c\language_x1_p1.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0c\setupenu.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\age.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\age2_x1.exe
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\clcd32.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\clokspl.exe
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\dplayerx.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\drvmgt.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\escape for assault.mod
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\fmod.dll
+Description: File used to change the game version - File Location: Information\Versions\1.0c\age2_x1\secdrv.sys
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Data\empires2_x1_p1.dat
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Data\gamedata_x1_p1.drs
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Canals_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Capricious_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Dingos_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Graveyards_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Metropolis_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Moats_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@ParadiseIsland_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Pilgrims_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Prairie_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Seasons_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Sherwood_Forest_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Sherwood_Heroes_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Shipwreck_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@Team_Glaciers_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0c\Random\ES@The_Unknown_v2.rms
+Description: File used to change the game version - File Location: Information\Versions\1.0e\age2_x1\on.ini
+Description: File used to change the game version - File Location: Information\Versions\2.0\clcd32.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0\dplayerx.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0\drvmgt.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0\empires2.exe
+Description: File used to change the game version - File Location: Information\Versions\2.0\EMPIRES2.ICD
+Description: File used to change the game version - File Location: Information\Versions\2.0\Data\gamedata.drs
+Description: File used to change the game version - File Location: Information\Versions\2.0a\clcd32.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0a\dplayerx.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0a\drvmgt.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0a\empires2.EXE
+Description: File used to change the game version - File Location: Information\Versions\2.0a\EMPIRES2.ICD
+Description: File used to change the game version - File Location: Information\Versions\2.0a\mcp.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0a\Data\gamedata.drs
+Description: File used to change the game version - File Location: Information\Versions\2.0b\age.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0b\Empires2.exe
+Description: File used to change the game version - File Location: Information\Versions\2.0b\on.ini
+Description: File used to change the game version - File Location: Information\Versions\2.0c\empires2.exe
+Description: File used to change the game version - File Location: Information\Versions\2.0c\miniupnpc.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0c\patch.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0c\wndmode.dll
+Description: File used to change the game version - File Location: Information\Versions\2.0c\Data\gamedata.drs
+Description: Version configuration file to check the installed version using the hashsum (MD5) - File Location: Information\Versions\INI\MD5[1.0c].ini
+Description: Version configuration file to check the installed version using the hashsum (MD5) - File Location: Information\Versions\INI\MD5[1.0e].ini
+Description: Version configuration file to check the installed version using the hashsum (MD5) - File Location: Information\Versions\INI\MD5[1.0].ini
+Description: Version configuration file to check the installed version using the hashsum (MD5) - File Location: Information\Versions\INI\MD5[2.0a].ini
+Description: Version configuration file to check the installed version using the hashsum (MD5) - File Location: Information\Versions\INI\MD5[2.0b].ini
+Description: Version configuration file to check the installed version using the hashsum (MD5) - File Location: Information\Versions\INI\MD5[2.0c].ini
+Description: Version configuration file to check the installed version using the hashsum (MD5) - File Location: Information\Versions\INI\MD5[2.0].ini
