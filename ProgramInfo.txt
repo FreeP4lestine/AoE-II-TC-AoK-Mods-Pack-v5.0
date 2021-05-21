@@ -1,4 +1,4 @@
-Description: The launcher program executable, to extract the program files to the temp directory and execute 'main.exe' in there - File Location: Launcher.exe
+Description: The launcher program executable (Includes 7za.exe a standalone executable for unpacking purpose and the all required the program files), to extract the program files to the temp directory and execute 'main.exe' in there - File Location: Launcher.exe
 Description: The main program executable - File Location: %Temp%\AoEII_PatchTmpDir\Main.exe
 Description: For converting .bmp files into .slp ones (Widescreen) - File Location: %Temp%\AoEII_PatchTmpDir\Bin\Bmp2Slp.exe
 Description: To change the console font color (unnecessary for this version of the program) - File Location: %Temp%\AoEII_PatchTmpDir\Bin\Display.exe
